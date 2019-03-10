@@ -52,6 +52,15 @@ For inspiration, check out the Markdown files which power the personal demo. The
     </item>
     
     <item>
+      <title>Programme</title>
+      <link>https://ice-giants.github.io/home/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/programme/</guid>
+      <description>Placeholder for the conference programme.</description>
+    </item>
+    
+    <item>
       <title>Skills</title>
       <link>https://ice-giants.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -88,6 +97,15 @@ For inspiration, check out the Markdown files which power the personal demo. The
     </item>
     
     <item>
+      <title>Local Information</title>
+      <link>https://ice-giants.github.io/home/local-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/local-info/</guid>
+      <description>Details on accommodation and transport during your stay in London.</description>
+    </item>
+    
+    <item>
       <title>Recent Posts</title>
       <link>https://ice-giants.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,7 +129,7 @@ For inspiration, check out the Markdown files which power the personal demo. The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/people/</guid>
-      <description></description>
+      <description>Scientific Organising Committee: * Leigh Fletcher (University of Leicester) * Adam Masters (Imperial College) * Ian Cohen (Applied Physics Laboratory) * Amy Simon (Goddard Spaceflight Center) * Mark Hofstadter (Jet Propulsion Laboratory)</description>
     </item>
     
     <item>
