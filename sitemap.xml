@@ -11,14 +11,6 @@
     
     <url>
     
-      <loc>https://ice-giants.github.io/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://ice-giants.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -36,6 +28,14 @@
     <url>
     
       <loc>https://ice-giants.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ice-giants.github.io/</loc>
       <priority>0</priority>
     </url>
     
