@@ -66,7 +66,8 @@ For inspiration, check out the Markdown files which power the personal demo. The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/venue/</guid>
-      <description>This workshop will take place at the prestigious London home of the Royal Society, in their Wellcome Trust lecture theatre.</description>
+      <description>The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the Royal Society, in their Wellcome Trust lecture theatre.
+The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of Burlington House (Royal Astronomical Society, Royal Geological Society, and the Linnean Society).</description>
     </item>
     
     <item>
@@ -79,12 +80,21 @@ For inspiration, check out the Markdown files which power the personal demo. The
     </item>
     
     <item>
+      <title>Invited Speakers</title>
+      <link>https://ice-giants.github.io/home/invitees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/invitees/</guid>
+      <description> January 20th 2020:  Ravit Helled, University of Zurich (Origins of the Ice Giants) Jonathan Fortney, UC Santa Cruz (Interiors of Ice Giants) Ricardo Hueso, University of Bilbao (Atmospheric Dynamics and Clouds) Julianne Moses, Space Science Institute (Atmospheric Chemistry) Henrik Melin, University of Leicester (Upper Atmosphere and Ionosphere) Krista Soderlund, University of Texas (Ice Giant Dynamos) Carol Paty, University of Oregon (Ice Giant Magnetospheres) Laurent Lamy, Observatoire de Paris Meudon (Ice Giant Auroras) Mark Showalter, SETI Institute (Rings of Uranus and Neptune) Elizabeth Turtle, APL, Maryland (Satellites of Uranus) Michele Bannister, Queens University Belfast (Triton and the KBO Connection) Poster Session 17:00-18:15  January 21st 2020:  Heidi Hammel, Space Science Institute (A Voyager Retrospective) TBD (The Exoplanetary Perspective) Abigail Rymer, APL, Maryland (The Heliophysics Perspective) Mark Hofstadter, JPL (US Perspectives on Ice Giant Missions) TBD (European Perspectives on Ice Giant Missions) John Elliot, JPL (Mission Design Prospects) Tom Spilker, JPL (Enabling Technologies for Ice Giants) Richard Ambrosi, University of Leicester (Space Nuclear Power) Discussion: Strategies for Ice Giant Missions in the 2020s  January 22nd 2020:  Splinter Sessions  </description>
+    </item>
+    
+    <item>
       <title>Organisers</title>
       <link>https://ice-giants.github.io/home/organisers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/organisers/</guid>
-      <description> Leigh Fletcher (University of Leicester) Adam Masters (Imperial College) Ian Cohen (Applied Physics Laboratory) Amy Simon (Goddard Spaceflight Center) Mark Hofstadter (Jet Propulsion Laboratory)  </description>
+      <description>Leigh Fletcher (University of Leicester) Adam Masters (Imperial College) Ian Cohen (Applied Physics Laboratory) Amy Simon (Goddard Spaceflight Center) Mark Hofstadter (Jet Propulsion Laboratory) Athena Coustenis (Observatoire de Paris Meudon) Chris Arridge (Lancaster University) Kathleen Mandt (Applied Physics Laboratory)  Along with advice and guidance from Laurent Lamy, David Atkinson, Pontus Brandt, Olivier Witasse, Olivier Mousis and Abigail Rymer.</description>
     </item>
     
     <item>
@@ -93,7 +103,20 @@ For inspiration, check out the Markdown files which power the personal demo. The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/programme/</guid>
-      <description>Placeholder for the conference programme.</description>
+      <description>The Ice Giants workshop will be consist of four distinct components:
+ Invited Reviews: Talks at the Royal Society (Monday and Tuesday, January 20th-21st) covering Ice Giant science (origins, interiors, atmospheres, magnetospheres), the connections to Exoplanetary science and heliophysics, and potential mission concepts and technologies to enable our future robotic explorers.
+ Contributed posters: A dedicated session at the Royal Society on Monday January 20th, showcasing the latest research. Abstracts submitted to this session will be available to plenary speakers for their invited reviews.</description>
+    </item>
+    
+    <item>
+      <title>Registration and Abstracts</title>
+      <link>https://ice-giants.github.io/home/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/registration/</guid>
+      <description>Registration for the Royal Society plenary sessions, the poster sessions, and the splinter sessions, will all open shortly. Please return to this page for more details about the registration and abstract process.
+The plenary sessions are free to attend, but advance registration is essential.
+Splinter session registration will be handled separately, and a small fee will be charged to cover venue hire and catering.</description>
     </item>
     
     <item>
@@ -111,7 +134,9 @@ For inspiration, check out the Markdown files which power the personal demo. The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/local-info/</guid>
-      <description>Details on accommodation and transport during your stay in London.</description>
+      <description>Details on accommodation and transport during your stay in London.
+Please check back for further details.
+Instructions for reaching the Royal Society are available here.</description>
     </item>
     
     <item>
