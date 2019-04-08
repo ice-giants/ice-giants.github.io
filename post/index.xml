@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Ice Giant Systems 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2019 20:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 19:57:59 +0100</lastBuildDate>
     
 	<atom:link href="https://ice-giants.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ice Giant Systems for ESA&#39;s Voyage2050</title>
+      <link>https://ice-giants.github.io/post/ice-giants-voyage-2050/</link>
+      <pubDate>Mon, 08 Apr 2019 19:57:59 +0100</pubDate>
+      
+      <guid>https://ice-giants.github.io/post/ice-giants-voyage-2050/</guid>
+      <description>Overview In March 2019, ESA released a call for scientific themes as part of a long-term planning process to replace the Cosmic Vision (2015-2035). Known as Voyage 2050, this would develop a strategy for the 2035-2050 period. White papers are due on August 5th, 2019, to be followed by a presentation to the community in October 2019.
+Although many of us would prefer to see the start of Ice Giant mission long before 2035, this provides the community with an opportunity to make the case for missions to Uranus and Neptune.</description>
+    </item>
     
     <item>
       <title>First Announcement</title>
