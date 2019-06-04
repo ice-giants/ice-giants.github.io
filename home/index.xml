@@ -39,11 +39,11 @@ Star</description>
       <description>Welcome to the Academic Kickstart template!
 Follow our Getting Started and Page Builder guides to easily personalize the template and then add your own content.
 For inspiration, check out the Markdown files which power the personal demo. The easiest way to publish your new site to the internet is with Netlify.
- View the documentation Ask a question Request a feature or report a bug Updating? View the Update Guide and Release Notes Support development of Academic:  Donate a coffee Become a backer on Patreon Decorate your laptop or journal with an Academic sticker Wear the T-shirt    This homepage section is an example of adding elements to the Blank widget.</description>
+ View the documentation Ask a question Request a feature or report a bug Updating? View the Update Guide and Release Notes Support development of Academic:  Donate a coffee Become a backer on Patreon Decorate your laptop or journal with an Academic sticker Wear the T-shirt    This homepage section is an example of adding [elements](https://sourcethemes.</description>
     </item>
     
     <item>
-      <title>First Announcement</title>
+      <title>Second Announcement</title>
       <link>https://ice-giants.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -66,7 +66,7 @@ For inspiration, check out the Markdown files which power the personal demo. The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/venue/</guid>
-      <description>The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the Royal Society, in their Wellcome Trust lecture theatre.
+      <description>The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the Royal Society, in their Wellcome Trust lecture theatre. Advance registration is essential via this link.
 Instructions for reaching the Royal Society are available here.
 The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of Burlington House (Royal Astronomical Society, Royal Geological Society, and the Linnean Society).</description>
     </item>
@@ -83,32 +83,23 @@ The third day (January 22nd 2020) of the workshop will feature Splinter Sessions
     </item>
     
     <item>
+      <title>Registration and Abstracts</title>
+      <link>https://ice-giants.github.io/home/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/registration/</guid>
+      <description>Registration for the Royal Society plenary sessions (January 20th and 21st 2020) and the Splinter Workshops (January 22nd 2020) are now open.
+ Plenary Registration: The two-day plenary sessions are free to attend, but advance registration is essential via this link.
+ Splinter Registration: Registration for the splinter workshops on January 22nd at Burlington House is via a separate process using this link - a £55 fee will be charged to cover the costs of venue hire and catering (refreshments and lunch will be provided).</description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>https://ice-giants.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/experience/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Organisers</title>
-      <link>https://ice-giants.github.io/home/organisers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ice-giants.github.io/home/organisers/</guid>
-      <description>Leigh Fletcher (University of Leicester) Adam Masters (Imperial College) Ian Cohen (Applied Physics Laboratory) Amy Simon (Goddard Space Flight Center) Mark Hofstadter (Jet Propulsion Laboratory) Athena Coustenis (Observatoire de Paris Meudon) Chris Arridge (Lancaster University) Kathleen Mandt (Applied Physics Laboratory)  Along with advice and guidance from Diego Turrini, Laurent Lamy, David Atkinson, Pontus Brandt, Olivier Witasse, Olivier Mousis, and Abigail Rymer.</description>
-    </item>
-    
-    <item>
-      <title>Registration and Abstracts</title>
-      <link>https://ice-giants.github.io/home/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ice-giants.github.io/home/registration/</guid>
-      <description>Registration for the Royal Society plenary sessions, the poster sessions, and the splinter sessions, will all open shortly. Please return to this page for more details about the registration and abstract process.
-The plenary sessions are free to attend, but advance registration is essential.
-Splinter session registration will be handled separately, and a small fee will be charged to cover venue hire and catering.</description>
     </item>
     
     <item>
@@ -138,6 +129,15 @@ Splinter session registration will be handled separately, and a small fee will b
       <description>Details on accommodation and transport during your stay in London.
 Please check back for further details.
 Instructions for reaching the Royal Society are available here.</description>
+    </item>
+    
+    <item>
+      <title>Organisers</title>
+      <link>https://ice-giants.github.io/home/organisers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/organisers/</guid>
+      <description>Leigh Fletcher (University of Leicester) Adam Masters (Imperial College) Ian Cohen (Applied Physics Laboratory) Amy Simon (Goddard Space Flight Center) Mark Hofstadter (Jet Propulsion Laboratory) Athena Coustenis (Observatoire de Paris Meudon) Chris Arridge (Lancaster University) Kathleen Mandt (Applied Physics Laboratory)  Along with advice and guidance from Diego Turrini, Laurent Lamy, David Atkinson, Pontus Brandt, Olivier Witasse, Olivier Mousis, and Abigail Rymer.</description>
     </item>
     
     <item>
@@ -191,8 +191,7 @@ Instructions for reaching the Royal Society are available here.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/publications/</guid>
-      <description> Quickly discover relevant content by filtering publications.
-  </description>
+      <description> Quickly discover relevant content by [filtering publications](https://ice-giants.github.io/publication/).   </description>
     </item>
     
     <item>
