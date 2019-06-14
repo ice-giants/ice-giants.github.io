@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Ice Giant Systems 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2019 19:57:59 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 09:28:09 +0100</lastBuildDate>
     
 	<atom:link href="https://ice-giants.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Announcement</title>
+      <link>https://ice-giants.github.io/post/second-announcement/</link>
+      <pubDate>Fri, 14 Jun 2019 09:28:09 +0100</pubDate>
+      
+      <guid>https://ice-giants.github.io/post/second-announcement/</guid>
+      <description>Dear Colleagues,
+Registration and abstract submission for the Ice Giant Systems 2020 conference, hosted by London’s prestigious Royal Society, are now open. The workshop spans Ice Giant formation, interiors, atmospheres, magnetospheres, rings and satellites, as well as mission/technology requirements and strategies for international collaboration in the coming decade.
+The meeting will consist of plenary lectures (Jan 20th-21st), posters (Jan 20th), and three parallel splinter workshops (Jan 22nd). The 2-day plenary meeting will be hosted at the Royal Society’s Carlton House Terrace, overlooking the Mall in central London.</description>
+    </item>
     
     <item>
       <title>Ice Giant Systems for ESA&#39;s Voyage2050</title>
