@@ -6,8 +6,101 @@
     <description>Recent content in Ice Giant Systems 2020 on Ice Giant Systems 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2019 19:57:59 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 20:39:16 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EPSC DPS2019</title>
+      <link>https://ice-giants.github.io/post/epsc-dps2019/</link>
+      <pubDate>Mon, 30 Sep 2019 20:39:16 +0100</pubDate>
+      
+      <guid>https://ice-giants.github.io/post/epsc-dps2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ice Giant Splinter Meeting Notes&lt;/strong&gt;
+Wednesday September 18th 2019
+EPSC/DPS Meeting in Geneva, Switzerland&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Background:&lt;/em&gt;
+Attendees at the Geneva EPSC/DPS meeting were invited to a 90-minute workshop to review recent developments towards realising a mission to the Ice Giant planets in the late 2020s or early 2030s.  We reviewed recent developments within the US and European space agencies, and discussed strategies for continued collaboration and progress, including setting the scene for the Ice Giant Systems Workshop in London in January 2020 (&lt;a href=&#34;https://ice-giants.github.io/&#34; target=&#34;_blank&#34;&gt;https://ice-giants.github.io/&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;For updates, please send an email with the subject “Subscribe” to (ice-giants@le.ac.uk)[ice-giants@le.ac.uk], and follow @IcyGiants on Twitter.  Your email will only be used for information associated with Ice Giant mission planning and meeting organisation, and you can unsubscribe at any time.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Meeting Notes:&lt;/em&gt;
+1.  &lt;strong&gt;European Ice Giant proposals 2010-2014:&lt;/strong&gt;  a number of Ice Giant mission proposals were submitted to ESA’s call for medium-class missions (€0.5bn), but technical and programmatic challenges prevented them from proceeding to the much-needed study phase.  When ESA called for science themes for its L2 and L3 missions in 2013 (€1bn), the community responded with proposals for Uranus (Arridge et al., &lt;a href=&#34;https://doi.org/10.1016/j.pss.2014.08.009&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.pss.2014.08.009&lt;/a&gt;), Neptune (Masters et al., &lt;a href=&#34;https://doi.org/10.1016/j.pss.2014.05.008&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.pss.2014.05.008&lt;/a&gt;), entry probes (Mousis et al., &lt;a href=&#34;https://arxiv.org/abs/1708.00235&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1708.00235&lt;/a&gt;), and missions to both worlds (Turrini et al., &lt;a href=&#34;https://doi.org/10.1016/j.pss.2014.09.005&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.pss.2014.09.005&lt;/a&gt;).  Although L2 (2031) and L3 (2034) were awarded to the ATHENA X-ray telescope and LISA gravitational wave observatory, respectively, this effort from the European community culminated in the ESA Senior Survey Committee stating (2013): “Study of the icy giants to be a theme of very high science quality and perfectly fitting the criteria for an L-class mission…. recommends that every effort is made to pursue this theme through other means, such as cooperation on missions led by partner agencies.”&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;US-ESA Ice Giants Study 2016-2017:&lt;/strong&gt;  the positive perspectives emerging from the L2/L3 competition led to European involvement in the NASA-led ice giants Science Definition Team (SDT) study in 2016-17 (Adam Masters and Diego Turrini).  This study took a fresh look at science priorities and concepts for missions to the Uranus and Neptune systems, assessing and prioritising science objectives considering advances since the last US Decadal Survey, current and emerging technologies, mission implementation techniques, and celestial mechanics. This study examined a wide range of mission architectures, flight elements, and notional science instruments.  The SDT recommended an orbiter-probe mission to either Uranus or Neptune (~$2bn USD), or both planets ($3-4bn USD). The executive summary of the report can be found here: &lt;a href=&#34;https://www.lpi.usra.edu/icegiants/mission_study/Exec-Summary.pdf&#34; target=&#34;_blank&#34;&gt;https://www.lpi.usra.edu/icegiants/mission_study/Exec-Summary.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ESA Concurrent Design Facility (CDF) study:&lt;/strong&gt;  In 2018-19, ESA explored potential means of participation in a NASA-led mission to the ice giants, looking at a palette of potential “stand alone” configurations of varying complexity and clean interfaces. The study looked at atmospheric probes, a potential second orbiter that relies on the cruise stage to Jupiter and then departs, and a Triton lander study.  The first CDF study report is available here (&lt;a href=&#34;https://sci.esa.int/web/future-missions-department/-/61307-cdf-study-report-ice-giants&#34; target=&#34;_blank&#34;&gt;https://sci.esa.int/web/future-missions-department/-/61307-cdf-study-report-ice-giants&lt;/a&gt;), with the second expected imminently.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ESA Voyage 2050:&lt;/strong&gt;  In March 2019, ESA released a call for scientific themes as part of a long-term planning process to replace the Cosmic Vision (2015-2035). Known as Voyage 2050, this would develop a strategy for the 2035-2050 period. White papers were due on August 5th, 2019, to be followed by a presentation to the community in Madrid, October 29-31 2019.  Although the Ice Giant community would prefer to see the start of Ice Giant mission long before 2035, this provided the community with an opportunity to make the case for missions to Uranus and Neptune.  Three relevant white papers were submitted, describing the transformative planetary science that can only be delivered via a robotic mission to these distant worlds, and the broader context within astronomy and fundamental physics.  Leigh Fletcher and Olivier Mousis will both present their white papers to the committee in Madrid on October 29th:
+a.  Fletcher et al. - Ice Giant Systems  (&lt;a href=&#34;https://arxiv.org/abs/1907.02963&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1907.02963&lt;/a&gt;)
+b.  Mousis et al. – in situ probes (&lt;a href=&#34;https://arxiv.org/abs/1908.00917&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1908.00917&lt;/a&gt;)
+c.  Guillot – Hydrogen Atmospheres (&lt;a href=&#34;https://arxiv.org/abs/1908.02092&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1908.02092&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;NASA Planetary Mission Pre-decadal Concept Studies 2019:&lt;/strong&gt;  In preparation for the 2023 Planetary Science Decadal Survey, NASA solicited proposals to conduct mission concept studies in planetary science. These studies would have a fast turn-around once the successful teams are announced (expected imminently), with the aim of providing study reports once the decadal survey panels are set up in 2020.  At least six proposals were submitted as follow-on to the 2016-17 NASA SDT study that are of relevance to the Ice Giants, with a small number investigating what could be accomplished at the level of a $1bn New-Frontiers class of mission, rather than a $2-3bn flagship.  The outcomes of these studies will inform the decadal survey panels, although it was noted that the Decadal Survey committee may commission further studies where necessary to inform the decision process.  The recommendations of the US Decadal survey will be made available by early 2022.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ESA Council of Ministers (CMIN19):&lt;/strong&gt;  ESA’s Senior Committee had already identified the Ice Giants as an important science theme for a large mission. The 2018-19 ESA studies were requested by the Mission Studies Office (SCI-FM) in the Future Missions Department of ESA&amp;rsquo;s Science Directorate.  The resulting possible ESA contribution to a US-led mission, known as the M* mission (M-class mission budget proposed following the removal of the M6 Cosmic Vision Programme Call), is one of a set of high-priority options to be proposed to ESA’s Council of Ministers meeting (Space19+) in Sevilla, Spain, on 27 – 28 November 2019.  In order to maintain Europe’s global leadership, ESA’s Science Programme (led by Gunther Hasinger, Director of Science) is asking via its DG for a substantial rise in funding of scientific activities over 4 years (of about 20%) at Space19+. This may allow ESA to operate ATHENA and LISA close together, and could also allow ESA to initiate studies for the contribution to the Ice Giants mission.  The outcome of the budget request, and allocations to specific missions, could be known in early 2020.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;OPAG (Outer Planets Assessment Group):&lt;/strong&gt;  In August 2019, Dr. Lori Glaze, Director of NASA&amp;rsquo;s Planetary Science Division, requested planetary science Assessment/Analysis Groups (&amp;ldquo;AGs&amp;rdquo;) to suggest priority big science questions to be considered in the upcoming US Decadal Survey.  These priority questions are important because, after the questions are vetted by the decadal survey panels, they may serve as the basis of proposals written in the coming decade.  Furthermore, white paper responses to the decadal should be careful to address these big-science questions.  The OPAG response to this request is available here:  &lt;a href=&#34;https://www.lpi.usra.edu/opag/meetings/aug2019/OPAG-ScienceLetter-to-Glaze_27Aug19.pdf&#34; target=&#34;_blank&#34;&gt;https://www.lpi.usra.edu/opag/meetings/aug2019/OPAG-ScienceLetter-to-Glaze_27Aug19.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Critical Timelines:&lt;/strong&gt;  Both the NASA and ESA studies confirmed the critical timescale for a proposed Ice Giant mission:  in order to maximise the delivered mass to the system, a Jupiter gravity assist would be required. This leads to preferential launch windows in 2029-30 for Neptune or 2030-34 for Uranus using conventional launch capabilities.  If we miss these opportunities, then the next ones are in the mid 2040s.  Given that ESA’s senior survey panel (2013) ranked ice giant science extremely highly, and the US decadal survey ranked an ice giant mission as a 3rd priority (after Mars 2020 and Europa, both of which are well under way), it was noted that an ice giant mission should start as soon as possible to meet launch opportunities at the end of the next decade. Some concerns were expressed over waiting until the culmination of the 2022-23 decadal survey process, as “leaving it too late.”&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mission Destination:&lt;/strong&gt;  Brief discussions about the ultimate choice of destination (Uranus, Neptune, or both) led to the conclusion that, whichever is ultimately chosen for technical/programmatic reasons, the entire community should get behind this decision.  Whilst both targets have high value and significant scientific potential (Uranus for its extreme behaviour and natural satellite system, Neptune for the presence of Triton), it was noted that both systems could be harbouring “Ocean Worlds.”&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;US Decadal Survey White Papers:&lt;/strong&gt;  The next step in the Ice Giant mission advocacy programme is to consolidate behind a small number of high-quality white papers to be submitted to the US decadal survey.  Given the expected volume of submissions, it was felt that a smaller number with numerous co-authors and endorsers would have a stronger impact.  A tentative list of white papers is available here, with rough drafts to be prepared by mid-October (&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Vpafk79WyoMx7OtybDvNa7DzhFPGe8PeAaCoYdfvOCg/htmlview&#34; target=&#34;_blank&#34;&gt;https://docs.google.com/spreadsheets/d/1Vpafk79WyoMx7OtybDvNa7DzhFPGe8PeAaCoYdfvOCg/htmlview&lt;/a&gt;) – although note that the call for white papers might change the style and substance of these.  To get involved, it was requested that people contact the lead authors directly.  There was discussion about the value of a European-led white paper for the US survey, showcasing ESA’s Ice Giants interests and capabilities – those interested to contact leigh.fletcher@le.ac.uk.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Royal Society Ice Giant Systems Workshop:&lt;/strong&gt;  Registration and abstract submission are open for the international meeting in London, January 20th-22nd 2020.  Please see &lt;a href=&#34;https://ice-giants.github.io/&#34; target=&#34;_blank&#34;&gt;https://ice-giants.github.io/&lt;/a&gt; for full details, where the plenary speakers (and their topics) are listed for the Monday and Tuesday.  We invite abstracts on topics relevant to Ice Giant science, to be presented either as orals on Wednesday 22nd January, or as posters on Monday 20th January.  Note that registration is mandatory and limited in numbers, with a small fee to cover catering for the Wednesday Splinter meetings.  The closing deadline will be during the AGU meeting in December, so please plan ahead.  Please contact ice-giants@le.ac.uk if you have any questions.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;How can I get involved?&lt;/strong&gt;
+This was a common question after the splinter meeting, and given that we’re at the stage of mission advocacy, there’s no well-defined route.  Within ESA, we need lobbying at national level, making sure that civil servants are up to date with the Ice Giant mission concepts, so that they can pass it up the chain to government ministers.  In the US, people are encouraged to engage with OPAG and with the upcoming white paper process, but similar advocacy and engagement is required.  The generational timescales involved in an Ice Giant mission requires involvement from all career stages, and the community must think of ways of enhancing the opportunities for early-career scientists in these long-term missions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Announcement</title>
+      <link>https://ice-giants.github.io/post/second-announcement/</link>
+      <pubDate>Fri, 14 Jun 2019 09:28:09 +0100</pubDate>
+      
+      <guid>https://ice-giants.github.io/post/second-announcement/</guid>
+      <description>&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+
+&lt;p&gt;Registration and abstract submission for the Ice Giant Systems 2020 conference, hosted by London’s prestigious Royal Society, are now open.  The workshop spans Ice Giant formation, interiors, atmospheres, magnetospheres, rings and satellites, as well as mission/technology requirements and strategies for international collaboration in the coming decade.&lt;/p&gt;
+
+&lt;p&gt;The meeting will consist of plenary lectures (Jan 20th-21st), posters (Jan 20th), and three parallel splinter workshops (Jan 22nd).  The 2-day plenary meeting will be hosted at the Royal Society’s Carlton House Terrace, overlooking the Mall in central London.  The latter splinter meetings will be held in three of the Learned Societies of Burlington House, just off Piccadilly – the Royal Astronomical Society, the Royal Geological Society, and the Linnean Society.  Both the plenary lectures and splinter contributions will be summarised in a special edition of the Philosophical Transactions of the Royal Society A.&lt;/p&gt;
+
+&lt;p&gt;Registration for the limited spaces is via a three-step process, open until December 10th 2019.  Full details are available on &lt;a href=&#34;https://ice-giants.github.io&#34; target=&#34;_blank&#34;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Plenaries: Register for the free, two-day plenary meeting on January 20th-21st at the Royal Society via:  &lt;a href=&#34;https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/&#34; target=&#34;_blank&#34;&gt;https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/&lt;/a&gt; - note that registration is mandatory for attendance.  Optional lunches can be purchased at the time of registration.&lt;/li&gt;
+&lt;li&gt;Splinter Meetings: Register for the one-day splinter meetings on January 22nd at Burlington House (a £55 fee will be charged to cover venue hire and catering) via: &lt;a href=&#34;https://shop.le.ac.uk/product-catalogue/events-at-leicester/department-of-physics-and-astronomy/ice-giant-systems-2020-splinter-meeting-registration&#34; target=&#34;_blank&#34;&gt;https://shop.le.ac.uk/product-catalogue/events-at-leicester/department-of-physics-and-astronomy/ice-giant-systems-2020-splinter-meeting-registration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Abstract Submission:  Submit a poster and/or splinter meeting abstract by following the instructions on [this form]( (&lt;a href=&#34;https://github.com/ice-giants/papers/raw/master/IG2020_abstractform.docx&#34; target=&#34;_blank&#34;&gt;https://github.com/ice-giants/papers/raw/master/IG2020_abstractform.docx&lt;/a&gt;) and sending it to mailto:ice-giants@le.ac.uk before 12:00 GMT on Tuesday December 10th 2019.  This is your opportunity to showcase new, cutting-edge Ice Giant science to the whole community.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Please spread the word, and we look forward to welcoming you to London!&lt;/p&gt;
+
+&lt;p&gt;Best Wishes,&lt;/p&gt;
+
+&lt;p&gt;The #IceGiants2020 Science Organising Committee&lt;/p&gt;
+
+&lt;p&gt;Ice Giant Systems 2020&lt;/p&gt;
+
+&lt;p&gt;Royal Society, London&lt;/p&gt;
+
+&lt;p&gt;January 20-22, 2020&lt;/p&gt;
+
+&lt;p&gt;Social Media:  #IceGiants2020&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&#34;http://ice-giants.github.io&#34; target=&#34;_blank&#34;&gt;http://ice-giants.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Email:  mailto:ice-giants@le.ac.uk&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;NB:  Your email address will be used solely for the purposes of coordination of
+Ice Giant meetings and mission-related announcements.  You can
+subscribe/unsubscribe at any time by sending an email with the subject
+“Subscribe” or “Unsubscribe” to  ice-giants@le.ac.uk.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ice Giant Systems for ESA&#39;s Voyage2050</title>
@@ -19,55 +112,56 @@
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;In March 2019, ESA released a &lt;a href=&#34;https://www.cosmos.esa.int/web/voyage-2050&#34; target=&#34;_blank&#34;&gt;call for scientific themes&lt;/a&gt; as part of a long-term planning process to replace the Cosmic Vision (2015-2035).  Known as Voyage 2050, this would develop a strategy for the 2035-2050 period.  White papers are due on August 5th, 2019, to be followed by a presentation to the community in October 2019.&lt;/p&gt;
+&lt;p&gt;In March 2019, ESA released a &lt;a href=&#34;https://www.cosmos.esa.int/web/voyage-2050&#34; target=&#34;_blank&#34;&gt;call for scientific themes&lt;/a&gt; as part of a long-term planning process to replace the Cosmic Vision (2015-2035).  Known as Voyage 2050, this would develop a strategy for the 2035-2050 period.  White papers are due on August 5th, 2019, to be followed by a presentation to the community in Madrid, October 29-31 2019.&lt;/p&gt;
 
 &lt;p&gt;Although many of us would prefer to see the start of Ice Giant mission long before 2035, this provides the community with an opportunity to make the case for missions to Uranus and Neptune.  The white paper will describe the transformative planetary science that can only be delivered via a robotic mission to these distant worlds, and the broader context within astronomy and fundamental physics.  The white paper is a significant update to those submitted as part of the &lt;a href=&#34;https://ice-giants.github.io/post/esa-l2-l3-proposals/&#34; target=&#34;_blank&#34;&gt;L2/L3 process&lt;/a&gt; in 2013.&lt;/p&gt;
 
+&lt;p&gt;A preprint of the white paper is available here:
+&lt;a href=&#34;https://arxiv.org/abs/1907.02963&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1907.02963&lt;/a&gt;
+&lt;strong&gt;Ice Giant Systems: The Scientific Potential of Missions to the Uranus and Neptune Systems (ESA Voyage 2050 White Paper)&lt;/strong&gt;
+Leigh N. Fletcher, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Sébastien Charnoz, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ravit Helled, Ricardo Hueso, Geraint Jones, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Olivier Mousis, Nadine Nettleman, Christina Plainaki, Elias Roussos, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini&lt;/p&gt;
+
 &lt;h3 id=&#34;white-paper-outline&#34;&gt;White Paper Outline&lt;/h3&gt;
 
-&lt;p&gt;The 20-page White Paper is being prepared by a team of ~30 planetary scientists from institutions across Europe, and will be circulated to the wider community for comment in the early summer.  The sections and authors (TBC) are as follows:&lt;/p&gt;
+&lt;p&gt;The 20-page White Paper is being prepared by a team of 30 planetary scientists from institutions across Europe.  The sections and authors are as follows:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;1. Why Explore Ice Giant Systems?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;1.1 Motivations&lt;/p&gt;
 
-&lt;p&gt;1.2 Ice Giants in the Cosmic vision&lt;/p&gt;
+&lt;p&gt;1.2 Ice Giants in the Cosmic Vision&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Science Themes for Ice Giant Exploration.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;2.1 Origins and Interiors (Ravit Helled, Nadine Nettleman, Olivier Mousis, Diego Turrini, Paolo Tortora, Jonathan Fortney)&lt;/p&gt;
+&lt;p&gt;2.1 Origins and Interiors (Ravit Helled, Nadine Nettleman, Olivier Mousis, Diego Turrini, Paolo Tortora, Jonathan Fortney, Yohai Kaspi)&lt;/p&gt;
 
-&lt;p&gt;2.2 Atmospheres and Ionospheres (Leigh Fletcher, Thibault Cavalie, Amy Simon, Henrik Melin, Julie Moses, Ricardo Hueso)&lt;/p&gt;
+&lt;p&gt;2.2 Atmospheres and Ionospheres (Leigh Fletcher, Thibault Cavalie, Amy Simon, Henrik Melin, Julie Moses, Ricardo Hueso, Paul Hartogh, David Andrews, Davide Grassi)&lt;/p&gt;
 
-&lt;p&gt;2.3 Magnetospheres (Elias Roussos, Laurent Lamy, Lea Griton, David Andrews, Adam Masters)&lt;/p&gt;
+&lt;p&gt;2.3 Magnetospheres (Elias Roussos, Laurent Lamy, Lea Griton, David Andrews, Adam Masters, Nicolas Andre, Emma Bunce, Christina Plainaki)&lt;/p&gt;
 
 &lt;p&gt;2.4 Satellites - Natural and Captured (Geraint Jones, Federico Tosi, Michele Bannister, Francesca Ferri)&lt;/p&gt;
 
 &lt;p&gt;2.5 Ring Systems (Sebastien Charnoz,  Juergen Schmidt)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3. Ice Giant Missions in Context&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Ice Giant Science in Context&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;3.1 Astronomical observatories&lt;/p&gt;
 
-&lt;p&gt;3.2 Heliophysics&lt;/p&gt;
+&lt;p&gt;3.2 Heliophysics Connection&lt;/p&gt;
 
-&lt;p&gt;3.3 Exoplanet Connections&lt;/p&gt;
+&lt;p&gt;3.3 Exoplanet &amp;amp; Brown Dwarc Connection&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;4. Ice Giant Missions&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;4.1 Potential Architectures&lt;/p&gt;
+&lt;p&gt;4.1 Architectures: The Case for Orbiters&lt;/p&gt;
 
-&lt;p&gt;4.2 Enabling Technologies&lt;/p&gt;
+&lt;p&gt;4.2 Timeliness and Launch Opportunities&lt;/p&gt;
 
-&lt;p&gt;4.3 Timeliness and Launch Opportunities&lt;/p&gt;
+&lt;p&gt;4.3 Enabling Technologies&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;5. Summary and Perspectives&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The author list spans the UK, Italy, France, Germany, Spain, Switzerland, Sweden, Finland, and the USA, and more will be added depending on gaps in capabilities.&lt;/p&gt;
-
-&lt;h3 id=&#34;call-for-supporters&#34;&gt;Call for Supporters&lt;/h3&gt;
-
-&lt;p&gt;The preparation of this Ice Giant Systems white paper provides an opportunity for us to showcase support for such a mission across Europe, and across the globe.  If you would like to show your support for a future mission to the Ice Giants, please fill out the short 10-second form at &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfkpexiUf9L4bK_4NNMzwPuU9Hm1S2D_UFaE8RJMuTIFdItKw/viewform?usp=sf_link&#34; target=&#34;_blank&#34;&gt;this link.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The author list spans the UK, Italy, France, Germany, Spain, Switzerland, Sweden, Finland, Israel and the USA.&lt;/p&gt;
 </description>
     </item>
     
