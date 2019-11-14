@@ -1,10 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
       <loc>https://ice-giants.github.io/post/epsc-dps2019/</loc>
+      <lastmod>2019-09-30T20:39:16+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ice-giants.github.io/</loc>
+      <lastmod>2019-09-30T20:39:16+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ice-giants.github.io/post/</loc>
       <lastmod>2019-09-30T20:39:16+01:00</lastmod>
     </url>
     
@@ -115,7 +131,7 @@
     
     <url>
     
-      <loc>https://ice-giants.github.io/author/</loc>
+      <loc>https://ice-giants.github.io/authors/</loc>
       <priority>0</priority>
     </url>
     
@@ -123,7 +139,7 @@
     
     <url>
     
-      <loc>https://ice-giants.github.io/authors/</loc>
+      <loc>https://ice-giants.github.io/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -133,23 +149,6 @@
     
       <loc>https://ice-giants.github.io/categories/</loc>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ice-giants.github.io/</loc>
-      <lastmod>2019-09-30T20:39:16+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ice-giants.github.io/post/</loc>
-      <lastmod>2019-09-30T20:39:16+01:00</lastmod>
     </url>
     
   
