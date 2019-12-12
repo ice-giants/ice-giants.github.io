@@ -43,12 +43,31 @@ For inspiration, check out the Markdown files which power the personal demo. The
     </item>
     
     <item>
-      <title>Third Announcement</title>
+      <title>Onwards to the Ice Giants...</title>
       <link>https://ice-giants.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/about/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Venue &amp; Format</title>
+      <link>https://ice-giants.github.io/home/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/venue/</guid>
+      <description>The Ice Giant Systems workshop will be consist of four distinct components:
+ Plenary Presentations: The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the Royal Society, in their Wellcome Trust lecture theatre. Talks will cover Ice Giant System science (origins, interiors, atmospheres, magnetospheres, satellites, rings), the connections to Exoplanetary science and heliophysics, and potential mission concepts and technologies to enable our future robotic explorers.</description>
+    </item>
+    
+    <item>
+      <title>Plenary Programme</title>
+      <link>https://ice-giants.github.io/home/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ice-giants.github.io/home/programme/</guid>
+      <description>Day One: January 20th 2020: Session 1 09:00-12:30: Ice Giant Planets  09:15-09:45 Origin, evolution, and internal structure of the ice giants, Professor Ravit Helled, University of Zurich, Switzerland 09:45-10:15 Interior structure and energy balance on the Ice Giants, Dr Jonathan Fortney, University of California, Santa Cruz, USA 10:15-10:30 Discussion - interiors objectives 10:30-11:00 Coffee break 11:00-11:25 Atmospheric dynamics and cloud structure of the ice giants, Dr Ricardo Hueso, University of Bilbao, Spain 11:25-11:50 Photochemistry in the atmospheres of Uranus and Neptune, Dr Julianne Moses, Space Science Institute, USA 11:50-12:15 The upper atmospheres of the ice giants, Dr Henrik Melin, University of Leicester, UK 12:15-12:30 Discussion 2 - Atmospheric objectives  Session 2 13:30-15:00: Ice Giant Magnetospheres  13:30-13:55 Dynamos of ice giant planets, Dr Krista Soderlund, University of Texas at Austin, USA 13:55-14:20 Ice giant magnetospheres, Dr Carol Paty, University of Oregon, USA 14:20-14:45 Ice giant auroras, Dr Laurent Lamy, Observatoire de Paris, PSL, CNRS, France 14:45-15:00 Discussion - magnetic field objectives 15:00-15:30 Tea break  Session 3 15:30-17:00: Agency Perspectives  15:30-16:00 US Perspectives on ice giant missions, Dr Mark Hofstadter, JPL/Caltech, USA 16:00-16:30 ESA perspectives on ice giant missions, Dr.</description>
     </item>
     
     <item>
@@ -61,25 +80,24 @@ For inspiration, check out the Markdown files which power the personal demo. The
     </item>
     
     <item>
-      <title>Venue</title>
-      <link>https://ice-giants.github.io/home/venue/</link>
+      <title>Splinter Meetings</title>
+      <link>https://ice-giants.github.io/home/splinter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ice-giants.github.io/home/venue/</guid>
-      <description>The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the Royal Society, in their Wellcome Trust lecture theatre. Advance registration is essential via this link.
-Instructions for reaching the Royal Society are available here.
-The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of Burlington House (Royal Astronomical Society, Royal Geological Society, and the Linnean Society).</description>
+      <guid>https://ice-giants.github.io/home/splinter/</guid>
+      <description>Two parallel splinter sessions will take place between 10:00-17:00 on January 22nd 2020 at Burlington House:
+ Ice Giant Planets - Origins, Interiors, and Atmospheres will take place at the Royal Astronomical Society. Ice Giant Systems - Magnetospheres, Auroras, Satellites and Rings will take place at the Geological Society. Lunch is provided for all speakers at the Geological Society, 12:00-13:00. A small number of poster boards will be available at the Geological Society during lunch, 12:00-13:00.</description>
     </item>
     
     <item>
-      <title>Programme</title>
-      <link>https://ice-giants.github.io/home/programme/</link>
+      <title>Posters</title>
+      <link>https://ice-giants.github.io/home/posters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ice-giants.github.io/home/programme/</guid>
-      <description>The Ice Giant Systems workshop will be consist of four distinct components:
- Invited Reviews: Talks at the Royal Society (Monday and Tuesday, January 20th-21st) covering Ice Giant System science (origins, interiors, atmospheres, magnetospheres, satellites, rings), the connections to Exoplanetary science and heliophysics, and potential mission concepts and technologies to enable our future robotic explorers.
- Contributed posters: A dedicated session at the Royal Society on Monday January 20th, showcasing the latest research.</description>
+      <guid>https://ice-giants.github.io/home/posters/</guid>
+      <description>Plenary Posters (Royal Society, Monday January 20th 17:00-18:30) Poster boards are set up in the Dining Room during the final session of Day One. They are 2m high and 1m wide, and we are limited to a maximum of 32 posters.
+ André et al. - An Energetic Particle Monitor for Ice Giant Atmospheric Probes
+ Andrews et al. - A radio and plasma wave experiment for the ice giants Apéstigue et al.</description>
     </item>
     
     <item>
@@ -88,9 +106,8 @@ The third day (January 22nd 2020) of the workshop will feature Splinter Sessions
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ice-giants.github.io/home/registration/</guid>
-      <description>Registration for the Royal Society plenary sessions (January 20th and 21st 2020) and the Splinter Workshops (January 22nd 2020) are now open.
- Plenary Registration: The two-day plenary sessions are free to attend, but advance registration is essential via this link.
- Splinter Registration: Registration for the splinter workshops on January 22nd at Burlington House is via a separate process using this link - a £55 fee will be charged to cover the costs of venue hire and catering (refreshments and lunch will be provided).</description>
+      <description>The formal registration deadline for this meeting was December 10th 2019. However, free registration for the Royal Society two-day plenary sessions (January 20th and 21st 2020) will remain open via this link.
+Splinter Registration [Closed]: Registration for the splinter workshops on January 22nd at Burlington House was via a separate process using this link - a £55 fee will be charged to cover the costs of venue hire and catering (refreshments and lunch will be provided).</description>
     </item>
     
     <item>
@@ -109,15 +126,6 @@ The third day (January 22nd 2020) of the workshop will feature Splinter Sessions
       
       <guid>https://ice-giants.github.io/home/accomplishments/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Invited Speakers</title>
-      <link>https://ice-giants.github.io/home/invitees/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ice-giants.github.io/home/invitees/</guid>
-      <description>Day One: January 20th 2020: Session 1 09:00-12:30: Ice Giant Planets  09:15-09:45 Origin, evolution, and internal structure of the ice giants, Professor Ravit Helled, University of Zurich, Switzerland 09:45-10:15 Interior structure and energy balance on the Ice Giants, Dr Jonathan Fortney, University of California, Santa Cruz, USA 10:15-10:30 Discussion - interiors objectives 10:30-11:00 Coffee break 11:00-11:25 Atmospheric dynamics and cloud structure of the ice giants, Dr Ricardo Hueso, University of Bilbao, Spain 11:25-11:50 Photochemistry in the atmospheres of Uranus and Neptune, Dr Julianne Moses, Space Science Institute, USA 11:50-12:15 The upper atmospheres of the ice giants, Dr Henrik Melin, University of Leicester, UK 12:15-12:30 Discussion 2 - Atmospheric objectives  Session 2 13:30-17:00: Ice Giant Systems  13:30-13:55 Dynamos of ice giant planets, Dr Krista Soderlund, University of Texas at Austin, USA 13:55-14:20 Ice giant magnetospheres, Dr Carol Paty, University of Oregon, USA 14:20-14:45 Ice giant auroras, Dr Laurent Lamy, Observatoire de Paris, PSL, CNRS, France 14:45-15:00 Discussion - magnetic field objectives 15:00-15:30 Tea break 15:30-15:55 The rings and inner satellites of Uranus and Neptune, Dr Mark Showalter, SETI Institute, USA 15:55-16:20 The Uranian satellite system, Dr Elizabeth Turtle, JHU-APL, Maryland, USA 16:20-16:45 Triton and the Kuiper Belt connection, Dr Michele Bannister, Queen&amp;rsquo;s University Belfast, UK 16:45-17:00 Discussion - Satellite/rings objectives  Poster Session 17:30-18:30 Day Two: January 21st 2020: Session 3 09:00-12:30: Cross-disciplinary perspectives  09:00-09:25 Lessons learned from (and since) the Voyager 2 flybys of Uranus and Neptune, Dr Heidi Hammel, Association of Universities for Research in Astronomy, USA 09:25-09:50 The exoplanet perspective, Dr.</description>
     </item>
     
     <item>
